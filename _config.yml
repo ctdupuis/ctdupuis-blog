@@ -1,11 +1,11 @@
 # Site settings
 author: Cody Dupuis
-title: 
+title: The First Chapter Closes
 header-img: img/home-bg.png
 email: ctdupuis7@gmail.com
 copyright_name: Cody Dupuis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning Procedural and Object-Oriented Ruby
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ctdupuis
