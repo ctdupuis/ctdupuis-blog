@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Difficulties of AJAX"
-date:       2020-05-08 04:19:05 +0000
+date:       2020-05-08 00:19:06 -0400
 permalink:  the_difficulties_of_ajax
 ---
 
